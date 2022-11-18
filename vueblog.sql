@@ -3,13 +3,6 @@
 
  Source Server         : 阿里云服务器2
  Source Server Type    : MySQL
- Source Server Version : 50724
- Source Host           : 119.23.217.243:3306
- Source Schema         : vueblog
-
- Target Server Type    : MySQL
- Target Server Version : 50724
- File Encoding         : 65001
 
  Date: 18/11/2022 18:11:44
 */
