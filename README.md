@@ -4,8 +4,9 @@
 2. vue
 3. element-ui
 4. shiro
-5. mysql
-6. redis
+5. lombook
+6. mysql
+7. redis
 
 ### 使用教程
 
